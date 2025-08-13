@@ -1,0 +1,21 @@
+# Anaconda / venv
+.env/
+env/
+env_RoadDamageDetection/
+*.conda
+*.ipynb_checkpoints
+.vscode/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dataset
+data/
+dataset/
+
+# Logs
+*.log
+# fichiers temporaires
+*.tmp
