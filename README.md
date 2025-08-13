@@ -38,3 +38,32 @@ L’objectif est de former un modèle capable d’identifier différents types d
 - 🌍 Déployer le modèle en API avec FastAPI
 
 - 💻 Support GPU avec CUDA ou ROCm pour accélérer l’entraînement
+
+
+---
+
+## Galerie
+
+- Exemple 1 : Fissures détectées
+
+<p align="center">
+  <img src="scripts/runs/detect/predict2/xmirror_United_States_004904.jpg" alt="Exemple fissures" width="200">
+</p>
+
+- Exemple 2 : Nid de poule
+
+<p align="center">
+  <img src="scripts/runs/detect/predict2/Czech_000920.jpg" alt="Exemple nid de poule" width="200">
+</p>
+
+- Exemple 3 : Multiples défauts
+
+<p align="center">
+  <img src="scripts/runs/detect/predict2/xmirror_United_States_005550.jpg" alt="Exemple multiples défauts" width="200">
+</p>
+
+- Exemple 4 : Résultat en lot (batch de prédictions)
+
+<p align="center">
+  <img src="scripts/runs/detect/train2/val_batch0_labels.jpg" alt="Exemple batch" width="200">
+</p>
