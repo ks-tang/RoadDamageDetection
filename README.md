@@ -4,7 +4,7 @@ Ce projet utilise le modèle **YOLOv8** pour détecter automatiquement les défa
 L’objectif est de former un modèle capable d’identifier différents types de fissures ou dégradations routières, puis de l’utiliser pour prédire sur de nouvelles images.
 
 ---
-
+```plaintext
 ## 📂 Structure du projet
 
 📁 RoadDamageDetection/
