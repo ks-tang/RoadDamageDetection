@@ -24,7 +24,7 @@ L’objectif est de former un modèle capable d’identifier différents types d
 ├── .gitignore # Fichiers/dossiers à ignorer par Git
 ├── README.md # Ce fichier 
 └── data.yaml # Configuration YOLO pour le dataset
-
+```
 
 ---
 
