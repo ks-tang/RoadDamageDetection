@@ -3,6 +3,8 @@
 Ce projet utilise le modèle **YOLOv8** pour détecter automatiquement les défauts sur les routes à partir d’images.  
 L’objectif est de former un modèle capable d’identifier différents types de fissures ou dégradations routières, puis de l’utiliser pour prédire sur de nouvelles images.
 
+Lien du dataset : [Lien Kaggle](https://www.kaggle.com/datasets/juusos/rdd2022es/data)
+
 ---
 
 ## 📂 Structure du projet
