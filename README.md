@@ -6,7 +6,7 @@ L’objectif est de former un modèle capable d’identifier différents types d
 Lien du dataset : [Lien Kaggle](https://www.kaggle.com/datasets/juusos/rdd2022es/data)
 
 ---
-
+```plaintext
 ## 📂 Structure du projet
 
 📁 RoadDamageDetection/
@@ -26,7 +26,7 @@ Lien du dataset : [Lien Kaggle](https://www.kaggle.com/datasets/juusos/rdd2022es
 ├── .gitignore # Fichiers/dossiers à ignorer par Git
 ├── README.md # Ce fichier 
 └── data.yaml # Configuration YOLO pour le dataset
-
+```
 
 ---
 
